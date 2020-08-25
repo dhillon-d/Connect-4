@@ -1,0 +1,27 @@
+Did you attempt to make your computer player very smart -- i.e., do something
+more clever than just pick a random legal move?
+
+No I did not attempt to make my computer very smart.
+
+If so, were you able to accomplish this? Is your computer player as smart as
+you would like?
+
+This question is non applicable to me.
+
+How did you determine which piece to play next? Tell us about your
+“pick next move” algorithm
+
+My algorithm is very complicated, basically it just picks a random open spot
+and drops the disk.
+
+How often did your computer program beat you, or your friends, or whoever
+tested it out for you?
+
+My computer is able to beat someone if they are really bad because all the
+algorithm does is drop randomly.
+
+How would you improve it in the future?
+
+I would improve it in the future by detecting how many colors in a row there
+are for the computers color. Then I would have the computer drop the disk to
+try and increase the amount of yellow disks in a row.
